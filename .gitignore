@@ -1,0 +1,15 @@
+!bootstrap-select-1.10.0/
+
+bootstrap-select-1.10.0/*
+!bootstrap-select-1.10.0/*.*
+!bootstrap-select-1.10.0/LICENSE
+!bootstrap-select-1.10.0/dist/
+
+bootstrap-select-1.12.4
+
+!bootstrap-select-1.13.7/
+
+bootstrap-select-1.13.7/*
+!bootstrap-select-1.13.7/*.*
+!bootstrap-select-1.13.7/LICENSE
+!bootstrap-select-1.13.7/dist/

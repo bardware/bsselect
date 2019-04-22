@@ -13,3 +13,8 @@ bootstrap-select-1.13.7/*
 !bootstrap-select-1.13.7/*.*
 !bootstrap-select-1.13.7/LICENSE
 !bootstrap-select-1.13.7/dist/
+
+bootstrap-select-1.13.10/*
+!bootstrap-select-1.13.10/*.*
+!bootstrap-select-1.13.10/LICENSE
+!bootstrap-select-1.13.10/dist/
